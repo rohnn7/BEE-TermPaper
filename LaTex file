@@ -1,0 +1,222 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\title{Effect of Artificial Intelligence on entrepreneurship}
+\author{Rohan Verma}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+The world is going through an era of revolution, where in, constantly scientific and technological advances are made day by day. In this era of revolution, one of the major driving forces is artificial intelligence. Then, there is business economy, which from ancient time to till date, has been backbone of economies. When these two major fields are combined, many bottlenecks can be passed and help us achieve new heights. Many new datasets, in the field of material science, which have facilitated the ml models to be more precise. The future potential is tremendous when combine these two fields, so this paper aims to highlight and discuss some of many possibilities that can arise. Firstly, the paper introduces to both the fields in very brief, to set the premise. Then we discuss about the reason for merging them to facilitate the economy. Moving further, we discuss how that integration is possible. Finally, startup ideas that could be scaled up using the AI will be discuss, to get the glimpse how the future of entrepreneurship would look with AI.
+
+\end{abstract}
+
+\section{Introduction}
+
+The premise of this paper rests in two fields i.e., ml & ai and material science, so its very necessary to define them in order to understand their significance in modern world and get the context. Let’s start with ai & ml, it broadly stands for artificial intelligence (AI), ML being the subpart of AI. So, AI term is broadly used as human intelligence given to machines in order to simulate the cognitive ability of humans. Altogether, there are 4 levels of AI, two of which is achieved and the other two rests on paper. Those are, reactive machines, limited theory, theory of mind and self-awareness [1]. Here, in reactive machines, very few inputs are required for machine to perform some basic functions. This takes hike, when limited memory comes into the picture, which is also the best breakthrough till date, and this involves storing and accessing data, then making decisions, further introspect against the given dataset to improve accuracy [2] [1]. The other two are theories, which can shape future, theory of minds is the third level which involves AI to be more empathetic towards human emotions and self-awareness includes developing human consciousness [2]. ML is subset of AI which is based on the second level, limited mind. ML is usually for making decisions in particular fields, and therefore ML needs humongous datasets, which contains raw data and also the results. Then ML try to find a pattern between data and results by finding a hash/mapping from domain to range, there by developing a function of this pattern. This function can be used to make decisions. There are further three types of ML, which are discussed later, those are as follows, supervised learning, unsupervised learning and reenforce learningThe premise of this paper rests in two fields i.e., ml & ai and material science, so its very necessary to define them in order to understand their significance in modern world and get the context. Let’s start with ai & ml, it broadly stands for artificial intelligence (AI), ML being the subpart of AI. So, AI term is broadly used as human intelligence given to machines in order to simulate the cognitive ability of humans. Altogether, there are 4 levels of AI, two of which is achieved and the other two rests on paper. Those are, reactive machines, limited theory, theory of mind and self-awareness [1]. Here, in reactive machines, very few inputs are required for machine to perform some basic functions. This takes hike, when limited memory comes into the picture, which is also the best breakthrough till date, and this involves storing and accessing data, then making decisions, further introspect against the given dataset to improve accuracy [2] [1]. The other two are theories, which can shape future, theory of minds is the third level which involves AI to be more empathetic towards human emotions and self-awareness includes developing human consciousness [2]. ML is subset of AI which is based on the second level, limited mind. ML is usually for making decisions in particular fields, and therefore ML needs humongous datasets, which contains raw data and also the results. Then ML try to find a pattern between data and results by finding a hash/mapping from domain to range, there by developing a function of this pattern. This function can be used to make decisions. There are further three types of ML, which are discussed later, those are as follows, supervised learning, unsupervised learning and reenforce learning
+
+\begin{figure}
+    \centering
+    \includegraphics[width = 0.5\textwidth]{ml.png}
+    \caption{Subsets of AI [1]}
+    \label{Fig 1. Subsets of AI [1]}
+\end{figure}
+
+Now, that basic premise for artificial intelligence has been set, its time to define the other field, entrepreneurship. Many have different opinion and definition of entrepreneurship, which is, in a way, true. Here is how I define entrepreneurship, for me entrepreneurship is an art of creating something robust, innovative, out of the box and, most importantly, dynamic, which quenches the market need and properly fits into its utility. For that, one needs to explore and brainstorm into one’s creative side, by letting run one’s imagination wild to get an idea. Later, after getting the idea, one should run the tests like product market fit or technical feasibility or the size of market or saturation in the market etc. So, basically entrepreneurship is all about thinking of a innovative and robust solution for the problem, which is leading to a gap in the market and that solution/idea will fill the gap. But, for any reason, I think, one should not reverse engineer things to come up with an idea, meaning thinking of a solution first and then finding the problem for that solution because this can be proven fatal once the startup transforms from ideation to prefunding phase. Now a days, many online startups are rising, and internet had acted like the catalyst in booming of the startup. Internet has given platform to many people, with innovative idea of any service and desire to start their own business, but without much capital to start their company and get succeeded. Internet had, has and will, act as the backbone for startup economy, and as technologies are advancing further, the startups are getting more and more depended on internet. But one thing to note here is that, firstly when internet started (1994-2004) people can only read content from the website i.e., big businesses and companies started their webpage which was one way communication, information can only be read and only programmer or web developer can write into internet, this is called web 1.0. Then, the next revolution came in 2004, because of Facebook, where a normal person can put his/her content at the same time, read from internet, communication became two ways, this is called web 2.0, in this period service-based startups became popular. Internet kept on evolving and now it’s evolving, once again it’s transforming from web 2.0 to web 3.0, where in the servers would no longer be central but rather peer to peer, which uses blockchain technology. So, it can be concluded that, the internet is evolving with a tremendous pace in innovation and robustness, but the question arises, the startup economy, which is so much dependent on internet, is keeping up with the rate of growth? This is answered in next section
+
+\section{Is startup economy a bubble?}
+As discussed earlier, it is known about dependency of startup economy over internet and also the rate of growth of internet, here in this section, let’s try to find the answer to the questions. Firstly, it was mentioned that during the beginning of the era of web 2.0 service-based startup became very popular, since people could interact with internet, service-based startups started offering their service to the people, this lead to success in that era where internet interaction was still a new thing ,but there is no evidence that if we continue that trend in this era, where web 2.0 is very common and no one is fascinated about it, there is no guarantee that we would get same results. But trend is still continuing, 90% of service-based startup lack robustness and hence lack the entry barrier, and since internet is available to all anyone can enter that market without entry barrier and increase the competition. Also, the investment in startup has become a loop, where startup is funded by group of people, which is very close community, this raises the valuation of the company and hence the money of person. Then the startup brings public issue, to give exit plans to the investors. Now a days this has become a trend in startup economy, anyways discussing it further is beyond the scope of the paper. It is claimed that startups, currently in cash burning phase, that they want to create habit of their service to users, so they need 25-30 years period of time, and also there is no data to suggest whether this plan will succeed or not but one thing is for sure that if the innovation keeps on missing from the startup, it may lead to collateral damage, as, if, the 25 year long plan doesn’t work and startup economy couldn’t keep pace with evolution of technologies, it may create panic in market leading to pulling of fundings by many investors at same time leading to many companies to bankruptcy. Hence, to keep up with the pace and create something concrete which is backed, not just by, funding of investors but, also the technology, there is dire need for technological innovations. This is where startups can integrate one of the major booming technologies such as blockchain, Internet of Things (IoT), artificial intelligence, cloud technologies etc. 
+To prove the point, mentioned above, let’s consider example of Amazon, when Amazon started in, 1994, amazon started as online book store, service-based startup in the era of web 1.0, then in 1996, it transformed as online store for everything. In 2006, it launched Amazon Web Service (AWS), which allows companies to host their server in their cloud technology, this was the era of web 2.0, where people started getting used to service-based startup. Please note that, Amazon was always one step ahead of the generation and hence could match the pace of technical evolution. Therefor Amazon is one of the biggest companies in the world right now, it gets 70% of it’s revenue from AWS, 20% from kindle and 10% from online store. This once more proved the point that how service based has become saturated, if one doesn’t integrate new technologies. Here in this paper we aim to discuss scope of startups when integrated with AI.
+
+
+\section{Machine learning:}
+This section aims to tells technicalities of machine learning, how machine learning model works and what are the prerequisite for ml model to work properly. 
+\begin{figure}
+    \centering
+    \includegraphics[width = 0.3\textwidth]{steps.png}
+    \caption{Steps involved in supervised learning [5]}
+    \label{Fig 1. Subsets of AI [1]}
+\end{figure}
+
+\subsection{3 types of machine learning:}
+
+There are three types of machine learning, depending on the complexity of, though there are many ml algorithm but all of them are being derived by combination of these three in base. So, we can broadly classify ml algorithms [1] [2]. Which are:
+
+Supervised learning, is process of making the machine learn about making right decisions or choices, by explicitly feeding the desired output for an input. It requires, data scientist to have a humongous dataset, machine can improvise on itself by re analyzing these predictions there by increasing the accuracy. It can be used for image recognition, spam detection, etc.  [1]
+
+Unsupervised learning, unlike supervised learning it doesn’t need the supervision of third party in order to learn. The model is capable enough to find some redundancy and pattern in given dataset and thereby deriving the hash function from the data. This comes, extreme handy to the model as its scope of improvement is immense, as it can learn overtime and increase it’s accuracy. It finds its major application in anomaly detection. [1]
+
+Reinforce learning is the epitome of machine learning, where in the machine doesn’t need any data in order to learn. The process includes, the positioning of model directly to the environment without providing data in advance, instead machine is provided with positive and negative rewards for every correct and incorrect deduction of the situation while interacting with the environment, respectively. This comparatively new procedure, but already has found so many applications such as in algo stock market trading. [1]
+
+
+\subsection{7 key steps involved to build Supervised ML Model:}
+Supervised learning is the most generic process of ml, which is so generic, that it is necessary to describe all steps involved in supervised learning and those are.
+\subsubsection{Step 1: Collect data:}
+For supervised learning, the success of project and accuracy of model highly depends on the availability of the data and its format. The quality of information containing in the data is directly proportional to the performance of the model [2]
+\subsubsection{Step 2: Prepare the data:}
+After, the source of the data is decided, we check for accuracy and quality of the data which is called data validation. We validate data in order for it to be accessible, interoperable and repurposable. Then the data should be segregated in two ratios, generally 80 to 20, 80 being the training data and 20 being the evaluating data. [2]
+\subsubsection{Step 3: Choose Model:}
+Depending on the aim of the project, of many models one can be chosen like linear regression, clustering, deep learning etc. 
+\begin{figure}
+    \centering
+    \includegraphics[width = 0.5\textwidth]{application.png}
+    \caption{Subsets of AI [1]}
+    \label{Fig 1. Subsets of AI [1]}
+\end{figure}
+
+\subsubsection{Step 4: Train the model:}
+The validation and balancing process of data, assigns weights to the output for an input. So train the model using the weights assign between input and output to find a function which fits the input and the output.
+\subsubsection{Step 5: Evaluation:}
+The data left in the ratio of 20, should be used to run experiment on by just providing the inputs and then match the output given by the model and desired output. Based on that one can derive the accuracy of model. 
+\subsubsection{Step 6: Parameter tuning:}
+This step is a conditional step, which depends on the accuracy of the model. If the accuracy is good which above 90% then, one can skip this step otherwise follow this step. So, in many scenarios, model won’t get desired accuracy, the problem may lie in underfitting or overfitting. In this case, one must return to the step 4 and reconfigure the datasets, by assigning new weights and increasing iterations. This would give better results. [2] [1]
+
+\subsubsection{Step 7: Prediction:}
+In this step, the ml model is ready to deal with any situation and can make decisions in real life.
+
+\section{Future scope of artificial intelligence in entrepreneurship:}
+Now that we are through with the intricacies of machine learning, let’s see how machine learning will shape the future of startup economy. As an engineer, one should always try to solve the problem with one’s knowledge in science, this approach is in resonance with entrepreneurship, when merged together it can be used to contribute some value to the society. So this section is divide in two parts, first would be scope in the field of my engineering specialization, which metallurgy and material science, and second, general use case of AI in different field. 
+
+\subsection{Scope of AI in material science based startups:}
+Material science, is another field, which is observing tremendous breakthroughs one example may be, due to diminishing of fuel, the nanomaterials are used to replace the conventional fuel [3]. Material science is basically the study of materials, and materials are defined as the substance chosen to do particular work. And this choosing or making a choice depends on many metrics such as crystallography, microstructures, nanostructures, properties, thermodynamics and majorly processing  [4]. Processing means creation of a material with desired metrics stated above. Generally, synthesis of materials is a tedious process, which involves lot of trial and error before getting a material with desired properties. This experimental process costs lot of time and resources, but here, if ml can be used it would cut short the time and make a precise material. With development of computing power, it can develop a simulated environment and millions of permutations to arrive at perfect and desired properties [5] [2]. This was one of many applications of ml at material science. Generally, material science has a broad spectrum of applications, some of them includes biomaterials, nacre, a strong material which is studied under SEM to develop self-assembled molecular layer to simulate assembly of viruses [6]. Other application may include perovskite, a light sensitive crystal, which can increase the efficiency of solar panel which are based on silicon. Then there is graphene which is very light but some 100 times tougher than steel with immense electric and heat conductivity [7]. 
+The scope material science is immense but there are some impediments, which are yet to overcome manually, one example may be the synthesis of material as mentioned above, i.e. when used manually it cost lots of resources but when used in resonance with ai, it can perform wonders. Other instance of a breakthrough from a bottleneck may be perovskite, which over the years has reached a good amount of efficiency but the stability of the substance is surrounded by skepticism because of its environmental impact on temperature, humidity and oxygen level still remains in question. So many researches is going on to develop a ml model to computationally derive a perovskite, which is more stable and efficient [8]. 
+The scope of material science and ml working together is unlimited, but for the scope of the paper, some of the major breakthroughs and ongoing research are listed.
+
+\subsubsection{Classification of crystal structure using artificial intelligence [12]:}
+The most important thing, in material science is to classify the crystal structure i.e., the way atoms are aligned in the material. Just to demonstrate it’s significance, there is increase in the solubility of carbon inside iron by 40 times, from ferrite (bcc) to austenite (fcc). Currently, the classification method is very laborious as, to classify any material, we determine the space group, so firstly symmetry operation is done and then it is matched with all possible space groups. This case should have been the ideal scenario, but atoms not always tightly packed, due to presence of the intrinsic defects they are displaced, which gives birth to experimental noise. So, to counter that, a threshold has to be set for classification and this threshold may vary from scenario to scenario depending on how precisely one wants to classify the substance. [12]
+To automate things, and classify perfectly about atomic coordinates and lattice vector, we can ignore the whole threshold concept. As it is known grain boundaries, dislocation etc. have a huge impact on the properties. Hence we take help of atom probe tomography, which provides 3d atomic positions with 80% accuracy. So, the 2d can be mapped to 3d, and using CNN architecture a classification model can be made, which ignore the 20% noise of atom probe tomography.
+\begin{figure}
+    \centering
+    \includegraphics[width = 0.5\textwidth]{workflow.png}
+    \caption{Workflow of model for classification [12]}
+    \label{Fig 1. Subsets of AI [1]}
+\end{figure}
+
+Startup opportunity: Using this model, we can work on Biosensors, this can be used to monitor person’s health, which can help people to alert about their health issues, before it becomes fatal and can save them from any miseries. In this age of technology, IoT is one of the major technologies, which can collect the data from anywhere and send it to the cloud. One of many applications of IoT is the sensor, using which one can monitor the health of person. As the sensor sends person’s physical environment such as temperature, ECG, pressure etc. then using these parameter ml model can predict the person’s health. 
+But this is cannot be used to draw whole picture of the person’s health. What we need is the molecular information, of person’s body. This can be done by collecting body fluids such as sweat, saliva etc. which contains electrolytes like sodium, potassium. Then the classification model (discussed previously) can be used to get molecular information, then match it with the datasets collected by many different devices using IoT, to accurately predict the health of the person.
+
+\subsubsection{Synthesis prediction by machine learning [13]:}
+Synthesis of material involves lots of trial and error, it is very difficult to predict which two reactants would give which product and that product would have which properties. The problem becomes more severe, which is most of the cases, when one tries to reverse engineer the product i.e., choose the reactant such that, that the product would have desired properties. Manually doing this can be very tedious and laborious, but when ml is inculcated to the problem, the efforts reduce tremendously.
+
+The algorithm is such that, this uses graph data structure, which can predict the new edge in the graph by existing characteristics i.e., edges. This exploits the large datasets, which when used many smart searches are made to predict the outcomes and then most suitable pattern is chosen and added as an edge to the graph for reference. [13]
+
+\begin{figure}
+    \centering
+    \includegraphics[width = 0.5\textwidth]{graph.png}
+    \caption{ graph representation of reaction }
+    \label{Fig 1. Subsets of AI [1]}
+\end{figure}
+
+\subsubsection{Prediction of perovskite solar cell (PSC) using ML [8] [14]:}
+Perovskite material are used in solar cell, which is much more efficient than the conventional silicon solar panel, but as mentioned above its efficiency and environmental impact are in question. So, using ml we can optimize PSC, the algorithm again applies reverse engineering in order to get result. [8]
+
+We have to use above two mentioned algorithms in parity in order to get better results, using ml the band gap of perovskite material can be predicted via material composition, this composition is then this material with predicted bandgap with same composition can be made. Then, taking the energy level of the material, performance can be predicted. [14]
+
+Startup opportunity: This can be used to set solar plants which are much more efficient. In India, states which are not on tropic of cancer, these states are energy deficit state, we can use a proper perovskite, to set the plant in these states and can meet the energy requirements.
+
+\subsubsection{ML model for fracture mechanism of graphene:}
+The future scope of material science cannot be discussed without mentioning nano materials. One such major material is graphene, which is some times lighter than steel and also better conductor. Growing popularity of graphene, it’s very important to know that how does the fracture in graphene (nano material) propagates and cause accidents. [7]
+
+With the help of ConvLSTM architecture we can coin geotemporal relationship of fracture propagation from the given data set which is generated by MD simulator. The tensile test is performed under MD simulation. Since the fracture propagation depends majorly on orientation of material that can be zig-zag or armchair. It was inferred from simulation that graphene’s fracture propagates via zig-zag	 fracture. [15]
+
+From the simulation, we get the fracture path images, which can be used as input and be compared to the output of dataset. This will help model predict the fracture behavior of graphene.  [15]. 
+
+Startup opportunity: this aims to create an open-source repository of various images like crystal structure, CTT curve, phase diagram, stress-strain curve, testing of material results etc. These images will be associated with incident or the current condition of the image’s structure. For example, we did tensile test to get stress-strain curve as a result, then we can fetch images with similar results, suppose the most identical result’s image was of collapsed over bridge, then we know what was the result for similar outcome of tensile test so we can drastically reduce malfunctioning. 
+
+Here ML model, I prepared that will do the smart search where it is provided with input and can fetch similar outputs. [16]
+
+\subsection{Scope of AI in startups:}
+In every field AI can find it’s use, but as an engineer, I would like to only mention those fields which has a dire need and where solution with AI would contribute for betterment and upliftment of the society
+
+\subsubsection{Biometrics:}
+In this world of data and information, breach of privacy has become common, we desperately need a system where we can authenticate the person in order to authorize them with the tasks. Here AI can come handy when used it with Radars. A person can fake fingerprints, eyeball etc. but he/she cannot fake his behaviors and gestures.
+
+Startup opportunity: what can be done is, a radar can be fixed on person’s watch or mobile, then this radar sends the data to the cloud where ML model is hosted and model is being trained on person’s behavior, so we can successfully predict of the person is authentic or not. This can be used in many ways, example it can note person’s driving pattern and tell whether he/she is drunk, this can prevent accidents or in Ola it can authenticate whether the driver is authentic or not. This can also be used self-introspection.
+
+\subsubsection{Content Based Medical Image Retrieval:}
+
+•	In rural hospitals, there is acute lack of medical expertise.
+
+
+•	In contrast, busy urban hospitals face problem of limited medical personnel dealing with multitude of patients.
+
+
+•	Emergency scenarios can occur in non-peak schedules when medical expertise is not available.
+
+
+•	This leads to critical care being burdened on the shoulders of very few doctors, residents and interns.
+
+
+Startup opportunity: \href{https://drive.google.com/file/d/1ngMJsBZzuBkJMZsve4P8UcrlyWKQbcxo/view?usp=sharing}{web-platform} to retrieve medical history of the previous cases which are similar to the current case being diagnosed. The proposed framework operates over different medical modalities such as Medical Images and Physiological Measurement. In this work, we have incorporated Brain-Tumor MRI and ECG Arrhythmia retrieval. Nevertheless, the system is generalized for any form of medical signal. Retrieving similar results and corresponding case history can help doctors make medical inference fast and more accurate.
+
+\subsubsection{Real time mental health monitoring:}
+There is a need for better surveillance tools to access and track the prevalence of mental health issues and untangle congenital and acquired conditions to provide for appropriate remediation and counselling.
+
+•	Most people, especially those who have not actually studied and researched about mental health, cannot gauge the broad scope and entirety of it. As a result, there is a lot of misinformation and widely believed myths and stigmas about mental health. It is essential to bust these myths before we can begin to envision a mentally healthy society.
+•	Efforts to maintain a balanced and healthy relationship with people who have panic or anxiety attacks begin with being thoroughly informed about them. Further, there are some tips and advice that people can follow to help a loved one dealing with panic or anxiety attacks.
+•	An eating disorder is a mental illness depicting an unhealthy relationship with your food. This may be eating too much in one sitting or too little food. Anyone can develop an eating disorder. It doesn’t matter what your age, gender, cultural or racial background is.
+
+
+Startup opportunity: The \href{https://devfolio.co/projects/rahee-4c57}{IoT system} connects to the cloud that lets the authenticated person keep a real-time check on some basic parameters like ECG, body posture etc. Using Bio-Sensors and Microprocessor that transmits the data to Firebase for storage in the database and henceforth is accessible by the authenticated person(Parents and Counsellor).
+The app offers people better access to  healthcare support beyond their bounds of convenience and connects them to doctors, specialists and healthcare experts on a digital platform, which provides them access to an online expert without a physical visit. For counsellors and parents, it includes a feature to view-track the medical record of the pupil regularly and efficiently.
+This can also be used in places where tempo and mood are important example a team leader of sales team constantly need to watch tempo of the team. This can be also used in schools to check weather a student is getting bullying or not, or to check where does students passion lies.
+
+
+\subsubsection{Legal Awareness:}
+AI can also be used in field of law, here people are not very aware of illegal things they do in day-to-day life, for example, copy trading in forex market, this highly illegal but people do to anyways for there cost benefits. This can be made aware by ml model that what’s inline with law and what’s not. Also, people miss on tax benefits or government scheme benefits just because lack of awareness, AI can be used as tool to make people aware.
+
+\section{Conclusion:}
+In this paper, we started with explaining, briefly about ml & ai to set the premise, we also discussed some major breakthrough in the field of material science, and how ml can be used to upgrade the process. Then we discussed different type of learning model and the steps involved to create one. Then we discussed futuristic application of ml in material science such as classification model, synthesis model, perovskite material efficiency prediction model and graphene fracture mechanism prediction model. Lastly, we discussed entrepreneurial opportunity when combined with AI. We also discussed why it’s important to keep upgrading with technologies by taking Amazon example.
+
+\section{References:}
+[1] D. Richardson. [Online]. Available: https://www.redhat.com/en/blog/what-aiml-and-why-does-itmatter-your-business.
+
+[2] [Online]. Available: https://analyticsindiamag.com/the-7-key-steps-to-build-your-machinelearning-model/.
+[3] M. R. G. M. S. B. &. M. A. L. M. Jonathan Schmidt, "Recent advances and applications of machine 
+learning in solid-state materials science". 
+
+[4] [Online]. Available: https://scitechdaily.com/ai-used-to-predict-synthesis-of-complex-novelmaterials-materials-no-chemist-could-predict/.
+
+[5] [Online]. Available: https://en.wikipedia.org/wiki/Materials_science.
+
+[6] [Online]. Available: https://www.jeolusa.com/APPLICATIONS/Application-List/MaterialsScience/Materials-Science-Applications.
+
+[7] [Online]. Available: https://singularityhub.com/2020/05/21/3-major-materials-sciencebreakthroughs-and-why-they-matter-for-the-future/.
+
+[8] R. Y. Beyza Yılmaz, "Critical review of machine learning applications in perovskite solar". 
+
+[9] D. K. M. S. &. L. M. G. Angelo Ziletti, "Insightful classification of crystal structures using deep 
+learning". 
+
+[10] L. F. M. C. F. d. O. D. D. &. O. N. O. J. Jose F. Rodrigues Jr, "Big data and machine learning for 
+materials science". 
+[11] B. P. S. G. a. J. T. Jinxin Li, "Predictions and Strategies Learned from Machine Learning to develop 
+high performing pervoskite solar cell". 
+
+[12] C.-H. Y. Y.-C. H. &. M. J. B. Andrew J. Lew, "Deep learning model to predict fracture mechanisms of 
+graphene". 
+
+[13] [Online]. Available: https://github.com/rohnn7/MedyGuide/blob/main/ml_model.py.
+
+[14] A. e. a. Jain, "The materials project: a materials genome approach to accelerating materials 
+innovation.". 
+
+[15] G. G. &. S. R. (. F. H. Allen, "Crystallographic Databases (International Union of Crystallography, 
+Chester, 1987).". 
+
+[16] J. E. K. S. A. M. M. B. &. W. Saal, "Materials design and discovery with high-throughput density 
+functional theory: the open quantum materials database (OQMD).". 
+\end{document}
